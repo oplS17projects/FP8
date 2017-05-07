@@ -8,7 +8,7 @@ For your final report:
 your first and last name.
 * The report should provide an overview of your project, and then narrate your own code contributions.
 * You must highlight ***how your code embodies the ideas of the course***.
-* You must provide an Authorship Note that explains who wrote any of the code that you present.
+* You must provide an Authorship Note, and specifically identify the code which is your own.
 * Your report should name and briefly describe any libraries or external technology used.
 * Focus on your own contributions to the project.
 * Please see [Analysis](https://github.com/oplS17projects/FP4-Proposal/blob/master/template.md "analysis section")
